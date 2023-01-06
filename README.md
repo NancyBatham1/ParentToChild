@@ -1,6 +1,8 @@
+# Change selection on parent and that will refelect into child component.
+
 # Parenttochild
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1. 
 
 ## Development server
 
